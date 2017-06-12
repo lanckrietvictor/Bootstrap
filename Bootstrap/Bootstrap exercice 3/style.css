@@ -1,0 +1,15 @@
+body {
+	font-size: 10px;
+}
+
+.container {
+	background-color: #CDA5F3;
+	border: solid 1px black;
+	text-align: center;
+}
+
+.text {
+	text-align: center;
+	border-radius: 5px;
+	border: solid 1px black;
+}

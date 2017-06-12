@@ -1,0 +1,24 @@
+body {
+	font-size: 10px;
+}
+
+.title {
+	text-align: center;
+	padding: 1rem;
+}
+
+.text {
+	border: solid 2px black;
+	border-radius: 5px;
+	text-align: center;
+	margin: 0;
+	padding: 1rem;
+}
+
+.container {
+	border: solid 2px black;
+	border-radius: 5px;
+	background-color: #CDA5F3;
+	max-width: 800px;
+}
+
